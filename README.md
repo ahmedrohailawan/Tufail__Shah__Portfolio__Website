@@ -1,9 +1,12 @@
 ### Tufail shah - one page portfolio for my computer science teacher  
 Node JS | MongoDB Database | Html CSS JS
+<div align="center">
 
 
-### Light Mode  
+### Light Mode
 
+
+</div>
 Home Page
 <img src="https://github.com/ahmedrohailawan/Tufail__Shah__Portfolio__Website/blob/main/readme%20files/1.png" width="900">
 About Page
@@ -16,9 +19,13 @@ Contact Page
 <img src="https://github.com/ahmedrohailawan/Tufail__Shah__Portfolio__Website/blob/main/readme%20files/5.png" width="900">
 Footer
 <img src="https://github.com/ahmedrohailawan/Tufail__Shah__Portfolio__Website/blob/main/readme%20files/6.png" width="900">
+<div align="center">
+
 
 ### Dark Mode
 
+
+</div>
 Home Page
 <img src="https://github.com/ahmedrohailawan/Tufail__Shah__Portfolio__Website/blob/main/readme%20files/7.png" width="900">
 About Page
